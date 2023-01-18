@@ -1,0 +1,22 @@
+[
+    {
+        "brand": "Stylus Works",
+        "model": "Curved Nib Stylus",
+        "price": 19.99,
+        "image": "Images/pen1.jpg"
+    },
+
+    {
+        "brand": "Qalam Calligraphy",
+        "model": "Prestige Calligraphy Pen",
+        "price": 45.99,
+        "image": "Images/pen2.jpg"
+    },
+
+    {
+        "brand": "Qalam Calligraphy",
+        "model": "Black Primori Fountain Pen",
+        "price": 65.99,
+        "image": "Images/pen3.jpg"
+    }
+]

@@ -1,0 +1,66 @@
+
+.item-3{
+    text-decoration: underline;
+    color: #d8aa3c;
+  }
+
+p {
+  font-size: 20px;
+  padding: 10px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+img {
+  size: 270px;
+}
+
+button{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
+
+button {
+  padding: 10px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: auto;
+  font-size: 18px;
+  border-radius: 15px;
+  }
+
+  button:hover {
+  opacity: 0.8;
+  color: #d8aa3c;
+  border: #d8aa3c;
+  border-width: 3px;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    gap: 15px;
+    background-color: none;
+    padding: 15px;
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+    }
+
+    .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px 0;
+    font-size: 30px;
+    border-radius: 20px;
+    }
+
+    .price {
+    color: grey;
+    font-size: 30px;
+    }
